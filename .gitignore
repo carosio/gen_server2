@@ -3,6 +3,8 @@
 *.beam
 *.o
 *.so
+*.log
+log/
 build/*
 ^build$
 Emakefile
